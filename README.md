@@ -9,7 +9,7 @@ Google Drive Link: https://drive.google.com/file/d/1PXqoFSnKEyb6VA-X4DfDziAv4wEE
 Baidu Wangpan Link: https://pan.baidu.com/s/1UMWCrJqhkjgm9_V3jx39Iw (password: 27rv)
 
 ## Acknowledgments
-The authors would like to thank Zhilin Liu, Xin Shen, Hongni Ruan, Hao Yu, and Yizhen Li from Wuhan University, Wuhan, China, to help with constructing the dataset.
+The authors would like to thank Xin Shen, Zhilin Liu, Hongni Ruan, Hao Yu, and Yizhen Li from Wuhan University, Wuhan, China, to help with constructing the dataset.
 
 ## License
 The AISD dataset can only be used for research and Non-Commercial purposes.
