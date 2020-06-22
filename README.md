@@ -4,9 +4,9 @@ Shuang Luo, Huifang Li, Huanfeng Shen. “Deeply supervised convolutional neural
 ## Download
 Our AISD dataset is available for download at Google Drive and Baidu Wangpan.
 
-Google Drive Link: https://drive.google.com/file/d/1PXqoFSnKEyb6VA-X4DfDziAv4wEEC3tl/view
+Google Drive Link: https://drive.google.com/file/d/1FYvKaXXiwe0sYLfE_3rxW0KOL1ROuVf1/view?usp=sharing
 
-Baidu Wangpan Link: https://pan.baidu.com/s/1UMWCrJqhkjgm9_V3jx39Iw (password: 27rv)
+Baidu Wangpan Link: https://pan.baidu.com/s/19AtO2Y7r5wDZs0PQgA5eug (password: mhxt)
 
 ## Acknowledgments
 The authors would like to thank Xin Shen, Zhilin Liu, Hongni Ruan, Hao Yu, and Yizhen Li from Wuhan University, Wuhan, China, to help with constructing the dataset.
